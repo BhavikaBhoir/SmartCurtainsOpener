@@ -17,7 +17,7 @@ The LDR detects the surrounding light level:
 Servo motors are controlled by the Arduino to perform the curtain movement automatically.
 
 ## 🖼️ Circuit Diagram
-![Circuit](circuit.png)
+![Circuit](circuit.png.png)
 
 ## 📁 Files
 - `smart_automatic_curtains_opener1.ino` — Arduino source code
